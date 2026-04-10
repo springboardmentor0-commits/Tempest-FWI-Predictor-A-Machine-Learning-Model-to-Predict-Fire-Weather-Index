@@ -48,5 +48,11 @@
 - Deploy using Docker
 - Add visualization dashboards
 
+## ✅ Conclusion
+- The Tempest: FWI Predictor demonstrates how machine learning can be effectively applied to real-world environmental problems.
+- It provides a simple and accessible way to estimate fire risk using weather data.
+- The project highlights the importance of predictive analytics in disaster prevention and forest management.
+- With further improvements and real-time data integration, the system can become a powerful tool for early fire risk assessment.
+
 
 
